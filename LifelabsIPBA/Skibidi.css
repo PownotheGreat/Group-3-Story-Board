@@ -1,0 +1,53 @@
+.box img{
+        border-radius: 25px;
+        justify-content: center;
+        margin-left: 23%;
+        margin-bottom: 30px;
+}
+#img{
+    float: left;
+            margin-right: 10px;
+            width: auto;
+            height: 285px;
+}
+
+ #img2{
+    float: right;
+            margin-left: 10px;
+            width: 289px;
+            height: auto;
+ }
+
+#img3{
+    float: left;
+            margin-right: 10px;
+            width: 289px;
+            height: auto;
+}
+
+#img4{
+    float: right;
+            margin-left: 10px;
+            width: 289px;
+            height: auto;
+}
+
+#img5{
+    float: left;
+            margin-right: 10px;
+            width: 289px;
+            height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
